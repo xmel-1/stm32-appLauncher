@@ -1,4 +1,4 @@
-# st32-appLauncher
+# stm32-appLauncher
 Application launcher using input from an accel. and a st32 board micro.
 
 Reading the data from the accelerometer, the microcontroller sends data to the computer which opens a determined app according to the orientation of said accelerometer.
